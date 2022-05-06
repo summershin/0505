@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace _0505
 {
-    public partial class 子慧測試 : Form
+    public partial class 育緯測試 : Form
     {
-        public 子慧測試()
+        public 育緯測試()
         {
             InitializeComponent();
         }

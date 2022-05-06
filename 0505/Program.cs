@@ -16,7 +16,7 @@ namespace _0505
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new form());
+            Application.Run(new 子慧測試());
         }
     }
 }
