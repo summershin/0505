@@ -1,7 +1,7 @@
 ﻿
 namespace _0505
 {
-    partial class 鈞傑TEST
+    partial class 鈞傑測試
     {
         /// <summary>
         /// Required designer variable.
@@ -29,10 +29,18 @@ namespace _0505
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // 鈞傑TEST
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Name = "鈞傑TEST";
             this.Text = "鈞傑TEST";
+            this.Load += new System.EventHandler(this.鈞傑TEST_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion
