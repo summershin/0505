@@ -68,6 +68,12 @@
       <DependentUpon>Test123.cs</DependentUpon>
     </Compile>
     <Compile Include="子慧測試.cs" />
+    <Compile Include="慶陽測試.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="慶陽測試.Designer.cs">
+      <DependentUpon>慶陽測試.cs</DependentUpon>
+    </Compile>
     <Compile Include="育緯測試.cs">
       <SubType>Form</SubType>
     </Compile>
