@@ -1,7 +1,7 @@
 ﻿
 namespace _0505
 {
-    partial class Form1
+    partial class 子慧測試
     {
         /// <summary>
         /// 設計工具所需的變數。
