@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace _0505
 {
-    public partial class Orders : Form
+    public partial class yichntest : Form
     {
-        public Orders()
+        public yichntest()
         {
             InitializeComponent();
+        }
+
+        private void maskedTextBox1_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
         }
     }
 }
