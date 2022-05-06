@@ -67,6 +67,12 @@
     <Compile Include="Test123.Designer.cs">
       <DependentUpon>Test123.cs</DependentUpon>
     </Compile>
+    <Compile Include="育緯測試.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="育緯測試.Designer.cs">
+      <DependentUpon>育緯測試.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -84,6 +90,9 @@
     </Compile>
     <EmbeddedResource Include="Test123.resx">
       <DependentUpon>Test123.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="育緯測試.resx">
+      <DependentUpon>育緯測試.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
