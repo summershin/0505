@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _0505
 {
-    class 子慧測試
+    partial class 子慧測試
     {
     }
 }
