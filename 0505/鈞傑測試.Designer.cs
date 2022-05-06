@@ -1,7 +1,7 @@
 ﻿
 namespace _0505
 {
-    partial class 鈞傑TEST
+    partial class 鈞傑測試
     {
         /// <summary>
         /// Required designer variable.
