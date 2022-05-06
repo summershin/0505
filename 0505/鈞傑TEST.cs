@@ -16,5 +16,10 @@ namespace _0505
         {
             InitializeComponent();
         }
+
+        private void 鈞傑TEST_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
