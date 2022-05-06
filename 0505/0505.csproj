@@ -90,11 +90,11 @@
     <Compile Include="育緯測試.Designer.cs">
       <DependentUpon>育緯測試.cs</DependentUpon>
     </Compile>
-    <Compile Include="鈞傑TEST.cs">
+    <Compile Include="鈞傑測試.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="鈞傑TEST.Designer.cs">
-      <DependentUpon>鈞傑TEST.cs</DependentUpon>
+    <Compile Include="鈞傑測試.Designer.cs">
+      <DependentUpon>鈞傑測試.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -120,8 +120,8 @@
     <EmbeddedResource Include="育緯測試.resx">
       <DependentUpon>育緯測試.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="鈞傑TEST.resx">
-      <DependentUpon>鈞傑TEST.cs</DependentUpon>
+    <EmbeddedResource Include="鈞傑測試.resx">
+      <DependentUpon>鈞傑測試.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
