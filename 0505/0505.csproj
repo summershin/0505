@@ -47,11 +47,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="form.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="form.Designer.cs">
+      <DependentUpon>form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="joyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="joyForm.Designer.cs">
+      <DependentUpon>joyForm.cs</DependentUpon>
     </Compile>
     <Compile Include="yichntest.cs">
       <SubType>Form</SubType>
