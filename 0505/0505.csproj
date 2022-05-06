@@ -46,11 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="joyform.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="joyform.Designer.cs">
+      <DependentUpon>joyform.cs</DependentUpon>
     </Compile>
     <Compile Include="Orders.cs">
       <SubType>Form</SubType>
@@ -66,8 +66,8 @@
     <Compile Include="Test123.Designer.cs">
       <DependentUpon>Test123.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="joyform.resx">
+      <DependentUpon>joyform.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Orders.resx">
       <DependentUpon>Orders.cs</DependentUpon>

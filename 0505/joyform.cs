@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace _0505
 {
-    public partial class Form1 : Form
+    public partial class joyform : Form
     {
-        public Form1()
+        public joyform()
         {
             InitializeComponent();
         }
