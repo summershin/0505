@@ -107,6 +107,9 @@
     <EmbeddedResource Include="育緯測試.resx">
       <DependentUpon>育緯測試.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="鈞傑TEST.resx">
+      <DependentUpon>鈞傑TEST.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
