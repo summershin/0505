@@ -96,9 +96,6 @@
     <Compile Include="鈞傑測試.Designer.cs">
       <DependentUpon>鈞傑測試.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="joyForm.resx">
       <DependentUpon>joyForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -116,6 +113,12 @@
     </Compile>
     <EmbeddedResource Include="Test123.resx">
       <DependentUpon>Test123.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="子慧測試.resx">
+      <DependentUpon>子慧測試.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="慶陽測試.resx">
+      <DependentUpon>慶陽測試.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="育緯測試.resx">
       <DependentUpon>育緯測試.cs</DependentUpon>
